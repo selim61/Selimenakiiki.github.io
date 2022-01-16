@@ -8,11 +8,11 @@
 
 ## Inhoudsopgave
 1. [Wat is Microsoft Cloud Adoption Framework](#uitleg)
-2. [Hoe is De Framework handig voor Cloud processen, componenten en services](Helpvol)
+2. [Hoe is De Framework handig voor Cloud processen, componenten en services](#Helpvol)
 3. [Welke Cloud Governance aspecten kijkt de framework naar?](#Aspecten)
-4. [Wat zijn de sterke en zwakke punten van de Framework?](Powerrating)
-5. [Gebruiken grote Cloud providers deze Framework?](Providers)
-6. [References](Bronnen)
+4. [Wat zijn de sterke en zwakke punten van de Framework?](#Powerrating)
+5. [Gebruiken grote Cloud providers deze Framework?](#Providers)
+6. [References](#Bronnen)
 
 ___
 # <a name="uitleg"></a>Wat is Microsoft Cloud Adoption Framework?
