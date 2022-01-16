@@ -3,7 +3,7 @@
 - [link naar de video Wel youtube](https://www.youtube.com/watch?v=9ch1iuJJzgA&ab_channel=Techielass)
 
 ![Alt text][LOGO:AZURE]
-[Reference 1]
+[Reference 1][LOGO:AZURE]
 
 
 ## Inhoudsopgave
@@ -108,7 +108,7 @@ In het Google Cloud-adoptiekader evalueert u elk van deze thema's in termen van 
 
 ---
 ![Alt text][FOTO:MCAF]
-[Reference 8]
+[Reference 8][FOTO:MCAF]
 
 # <a name="Bronnen"></a>References
 Gemaakt door: Akiiki Mellink en Selim Öztürk
