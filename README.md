@@ -3,7 +3,7 @@
 - [link naar de video Wel youtube](https://www.youtube.com/watch?v=9ch1iuJJzgA&ab_channel=Techielass)
 
 ![Alt text][LOGO:AZURE]
-
+[Reference 1]
 
 
 ## Inhoudsopgave
@@ -19,7 +19,7 @@ ___
 ---
 Microsoft Cloud Adoption Framework (Microsoft  CAF) is een richtlijn die is ontworpen om u te helpen bij het maken en implementeren van bedrijfs- en technologie strategieën. Het biedt best practices, documentatie en hulpprogramma's. Cloudarchitecten, IT-professionals en besluitvormers gebruiken deze informatie om hun doelstellingen voor Cloud adoption te bereiken.
 Met behulp van Cloud Adoption Framework best practices voor Azure kunnen organisaties hun zakelijke en technische strategieën beter afstemmen om succes te garanderen. Bekijk de volgende video voor meer informatie.
-[Reference 1][Microsoft website 1]
+[Reference 6][Microsoft website 1]
 ---
 # <a name="Helpvol"></a>Hoe is De Framework handig voor Cloud processen, componenten, services, business en mensen die er mee werken?
 ---
@@ -105,17 +105,20 @@ In het Google Cloud-adoptiekader evalueert u elk van deze thema's in termen van 
 3.	Transformationeel – Uw cloudactiviteiten verlopen soepel en u bent gefocust op optimalisatie en verbetering.
 [Reference 7][COPADO]
 
-
 ---
+![Alt text][FOTO:MCAF]
+[Reference 8]
+
 # <a name="Bronnen"></a>References
 Gemaakt door: Akiiki Mellink en Selim Öztürk
 - Reference 1:[LOGO:AZURE]
 - Reference 2: [Cloudnetapp 1]
 - Reference 3: [Cloudnetapp 2]
-- Reference 6: [Microsoft website 1]
 - Reference 4: [Microsoft website 2]
 - Reference 5: [Microsoft website 3]
+- Reference 6: [Microsoft website 1]
 - Reference 7: [COPADO]
+- Reference 8: [FOTO:MCAF]
 
 [LOGO:AZURE]: https://docs.microsoft.com/nl-nl/azure/cloud-adoption-framework/_images/learn-caf-logo.png  "LOGO:AZURE"
 [Microsoft website 1]: https://docs.microsoft.com/nl-nl/azure/cloud-adoption-framework/overview "Microsoft website 1"
@@ -124,3 +127,4 @@ Gemaakt door: Akiiki Mellink en Selim Öztürk
 [Microsoft website 2]: https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/ "Microsoft website 2"
 [Microsoft website 3]: https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/manage/considerations/operational-compliance "Microsoft website 3"
 [COPADO]: https://www.copado.com/devops-hub/blog/benefits-of-a-cloud-adoption-framework-vs-migrating-on-your-own "COPADO"
+[FOTO:MCAF]: https://cdn-images-1.medium.com/fit/t/1600/480/1*9Wtvwv9Wwojwzx-GoG5RDg.png
